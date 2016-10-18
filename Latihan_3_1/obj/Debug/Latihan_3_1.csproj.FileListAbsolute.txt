@@ -6,3 +6,6 @@ D:\Net Lanjutan\Selasa_141110337_Steven\Latihan_1_1\Latihan_3_1\obj\Debug\Latiha
 D:\Net Lanjutan\Selasa_141110337_Steven\Latihan_1_1\Latihan_3_1\obj\Debug\Latihan_3_1.csproj.GenerateResource.Cache
 D:\Net Lanjutan\Selasa_141110337_Steven\Latihan_1_1\Latihan_3_1\obj\Debug\Latihan_3_1.exe
 D:\Net Lanjutan\Selasa_141110337_Steven\Latihan_1_1\Latihan_3_1\obj\Debug\Latihan_3_1.pdb
+C:\New folder\Selasa_141110337_Steven\Latihan_3_1\bin\Debug\Latihan_3_1.exe.config
+C:\New folder\Selasa_141110337_Steven\Latihan_3_1\obj\Debug\Latihan_3_1.exe
+C:\New folder\Selasa_141110337_Steven\Latihan_3_1\obj\Debug\Latihan_3_1.pdb
