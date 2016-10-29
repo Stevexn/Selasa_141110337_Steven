@@ -108,5 +108,15 @@ namespace Latihan_4_1
                 else if (dr == DialogResult.Cancel) return;
             }
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
