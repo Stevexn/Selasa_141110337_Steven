@@ -118,5 +118,10 @@ namespace Latihan_4_1
         {
 
         }
+
+        private void menuStrip2_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }
